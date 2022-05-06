@@ -1,0 +1,7 @@
+version: "3"
+services:
+  web:
+    build: 
+      context: ./web
+      dockerfile: Dockerfile
+    image: djando-k8s:v1
