@@ -4,5 +4,8 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"terminal.integrated.defaultLocation": "view",
+		"terminal.integrated.fontSize": 18
+	}
 }
