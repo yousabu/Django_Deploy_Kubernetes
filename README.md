@@ -1,1 +1,1 @@
-# django-k8s
+# Deploy Django into Production with Kubernetes, Docker, & Github Actions.
